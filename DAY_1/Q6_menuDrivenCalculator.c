@@ -12,10 +12,6 @@ float div(float x,float y){
     return x/y;
 }
 
-void calculator(float x, float y, char operators){
-
-}
-
 int main(){
     float x,y,result;
     char operators,doAgain;
