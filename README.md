@@ -13,6 +13,7 @@ Click on any day to view the source codes.
 | Day |  Folder |
 |------|--------|
 | Day 1 | 📁 [DAY_1](./DAY_1) |
+| Day 2 | 📁 [DAY_2](./DAY_2) |
 
 ---
 
@@ -22,6 +23,7 @@ Click on any day to view the source codes.
 - Conditional Statements
 - Loops
 - Functions
+- Arrays
 
 ---
 
