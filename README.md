@@ -29,6 +29,6 @@ Click on any day to view the source codes.
 
 ## 👨‍💻 Author
 
-**Jas**
+**Jasmin Singh**
 
 B.Tech Computer Science Engineering Student.
