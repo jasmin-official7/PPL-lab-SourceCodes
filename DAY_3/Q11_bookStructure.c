@@ -13,7 +13,7 @@ struct Book{
 
 int main(){
     int i,n;
-    printf("Enter number of members:");
+    printf("Enter number of books:");
     scanf("%d",&n);
     struct Book member_log[n];
     for(i=0;i<n;i++){
