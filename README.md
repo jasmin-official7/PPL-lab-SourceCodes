@@ -15,6 +15,7 @@ Click on any day to view the source codes.
 | Day 1 | 📁 [DAY_1](./DAY_1) |
 | Day 2 | 📁 [DAY_2](./DAY_2) |
 | Day 3 | 📁 [DAY_3](./DAY_3) |
+| Day 4 | 📁 [DAY_4](./DAY_4) |
 
 ---
 
