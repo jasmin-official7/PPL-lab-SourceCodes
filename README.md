@@ -18,6 +18,7 @@ Click on any day to view the source codes.
 | Day 4 | 📁 [DAY_4](./DAY_4) |
 | Day 5 | 📁 [DAY_5](./DAY_5) |
 | Day 6 | 📁 [DAY_6](./DAY_6) |
+| Day 7 | 📁 [DAY_7](./DAY_7) |
 
 ---
 
